@@ -1,3 +1,3 @@
 # Review Analyzer
 
-A lightweight Python tool that classifies customer reviews as positive or unknown.
+A lightweight application for analyzing product reviews.
